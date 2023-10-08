@@ -11,7 +11,7 @@ main::after {
     min-height: 100vh;
     width: 80vw;
 
-    background: linear-gradient(-233deg, #000 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
+    background: linear-gradient(-233deg, #000 30%, rgba(0, 0, 0, 0) 65%) no-repeat;
 }
 
 main .personagem {
@@ -50,7 +50,7 @@ main .personagem .imagem {
 }
 
 .conteudo .descricao {
-    color: #ffffff;
+    color: #6b9cc3fe;
     font-family: "Rubik";
     line-height: 24px;
 }
